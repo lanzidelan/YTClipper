@@ -39,4 +39,4 @@ jobs:
     - uses: actions/upload-artifact@v3
       with:
         name: output.mp4
-        path: E:\
+        path: output.mp4
